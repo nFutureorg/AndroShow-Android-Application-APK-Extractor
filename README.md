@@ -1,6 +1,6 @@
 # AndroShow - Android Application APK Extractor
 
-#If you use this Tools then please cite:
+# If you use this Tools then please cite:
 
 1. Russel, M. O. F. K., Rahman, S. S. M. M., & Alazab, M. AndroShow: A Large Scale Investigation to Identify the Pattern of Obfuscated Android Malware. In Machine Intelligence and Big Data Analytics for Cybersecurity Applications (pp. 191-216). Springer, Cham.
 
